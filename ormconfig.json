@@ -1,0 +1,12 @@
+[
+    {
+      "type": "mysql",
+      "host": "localhost",
+      "username": "root",
+      "password": null,
+      "database": "nestblog",
+      "entities": ["dist/**/*.entity.js"],
+      "synchronize": true,
+      "logging": true
+    }
+  ]
